@@ -1,8 +1,8 @@
 package main
 
-import "fmt"
+import "github.com/jrk-petiq/aoc2023/Day01"
 
 func main() {
-  fmt.Println("Hello World")
+	// Day01.Day01A()
+  Day01.Day01B()
 }
-
